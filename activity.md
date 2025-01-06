@@ -11,3 +11,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-01-05T19:25:04] Add DSA solution
 - [2025-01-05T11:17:55] Tree traversal
 - [2025-01-06T11:56:26] Fix bug
+- [2025-01-06T18:39:18] Solve LeetCode problem
