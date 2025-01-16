@@ -26,3 +26,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-01-15T16:31:01] Minor improvements
 - [2025-01-15T23:26:53] Improve README
 - [2025-01-15T15:06:44] Dynamic Programming
+- [2025-01-16T15:45:15] Graph algorithm
