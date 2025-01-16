@@ -29,3 +29,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-01-16T15:45:15] Graph algorithm
 - [2025-01-16T22:28:07] Code formatting
 - [2025-01-16T14:20:58] Optimize algorithm
+- [2025-01-16T20:12:50] Tree traversal
