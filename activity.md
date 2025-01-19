@@ -33,3 +33,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-01-17T21:42:21] Refactor code
 - [2025-01-17T13:34:12] Binary Search
 - [2025-01-18T13:13:43] Dynamic Programming
+- [2025-01-19T14:43:13] Tree traversal
