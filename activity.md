@@ -75,3 +75,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-02-21T11:02:41] Cleanup
 - [2025-02-21T18:54:32] Refactor code
 - [2025-02-22T18:03:33] Refactor code
+- [2025-02-22T10:55:25] Binary Search
