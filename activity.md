@@ -82,3 +82,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-02-24T10:39:09] Cleanup
 - [2025-02-24T16:31:01] Fix bug
 - [2025-02-25T10:01:40] Initial implementation
+- [2025-02-26T11:32:10] Binary Search
