@@ -249,3 +249,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-06-03T14:59:29] Add DSA solution
 - [2025-06-03T21:42:21] Tree traversal
 - [2025-06-05T22:21:51] Fix bug
+- [2025-06-07T22:52:22] Improve README
