@@ -250,3 +250,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-06-03T21:42:21] Tree traversal
 - [2025-06-05T22:21:51] Fix bug
 - [2025-06-07T22:52:22] Improve README
+- [2025-06-07T14:43:13] Dynamic Programming
