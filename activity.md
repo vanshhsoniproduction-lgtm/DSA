@@ -381,3 +381,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-08-20T15:14:44] Binary Search
 - [2025-08-22T15:44:15] Graph algorithm
 - [2025-08-22T22:36:06] Code formatting
+- [2025-08-22T14:20:58] Add DSA solution
