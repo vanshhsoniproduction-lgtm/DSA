@@ -386,3 +386,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-08-24T21:50:20] Refactor code
 - [2025-08-24T12:34:12] Solve LeetCode problem
 - [2025-08-24T19:25:04] Minor improvements
+- [2025-08-24T11:17:55] Improve README
