@@ -391,3 +391,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-08-26T18:39:18] Graph algorithm
 - [2025-08-26T10:31:09] Code formatting
 - [2025-08-27T10:02:40] Initial implementation
+- [2025-08-28T11:40:11] Binary Search
