@@ -433,3 +433,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-10-03T23:28:38] Initial implementation
 - [2025-10-04T09:30:08] Optimize algorithm
 - [2025-10-04T15:22:00] Tree traversal
+- [2025-10-04T22:13:44] Improve README
