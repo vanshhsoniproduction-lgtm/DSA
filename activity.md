@@ -444,3 +444,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-10-07T12:04:42] Dynamic Programming
 - [2025-10-07T11:26:04] Fix bug
 - [2025-10-07T11:17:55] Solve LeetCode problem
+- [2025-10-08T11:48:26] Binary Search
