@@ -529,3 +529,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-12-02T16:01:31] Optimize algorithm
 - [2025-12-04T17:31:02] Minor improvements
 - [2025-12-04T09:23:53] Improve README
+- [2025-12-04T15:15:45] Binary Search
