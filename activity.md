@@ -538,3 +538,4 @@ This file records automated practice and project commits for the year 2025.
 - [2025-12-07T13:35:13] Solve LeetCode problem
 - [2025-12-09T22:44:22] Optimize algorithm
 - [2025-12-09T14:35:14] Fix bug
+- [2025-12-09T13:27:57] Improve README
