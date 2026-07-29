@@ -21,6 +21,6 @@ class Solution {
                 high=mid;
             }
         }
-        return nums[low];
+        return min;
     }
 }
