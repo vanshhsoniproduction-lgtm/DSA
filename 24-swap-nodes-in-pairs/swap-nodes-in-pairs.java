@@ -25,12 +25,6 @@ class Solution {
             temp = next;
             
         }
-        temp = answer.next;
-        while(temp != null){
-            System.out.println(temp.val);
-            temp = temp.next;
-        }
-
         return answer.next;
     }
 }
